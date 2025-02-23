@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bogahawaththa</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Bogahawaththaa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="coding" width='400' src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
 
