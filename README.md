@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Softwere Engineering**
 
-- 📫 How to reach me **abogahawaththa.me**
+- 📫 How to reach me (abogahawaththa.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
