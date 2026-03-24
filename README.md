@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://twitter.com/abihisheakboga2" target="blank"><img src="https://img.shields.io/twitter/follow/abihisheakboga2?logo=twitter&style=for-the-badge" alt="abihisheakboga2" /></a> </p>
 
 - 🌱 I’m currently learning **Softwere Engineering**
-- 
 
 - 📫 How to reach me https://abogahawaththa.me
 <h3 align="left">Connect with me:</h3>
