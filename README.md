@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Softwere Engineering**
 
 - 📫 How to reach me https://abogahawaththa.me
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abihisheakboga2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abihisheakboga2" height="30" width="40" /></a>
