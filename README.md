@@ -11,7 +11,7 @@
 ### 👋 About Me
 
 - 🎓 Studying **Software Engineering**
-- 💻 Building full-stack apps with the **MERN Stack**
+- 💻 Building full-stack apps
 - ☕ Passionate about **Java** and backend development
 - 🌐 Portfolio: **[abogahawaththa.me](https://abogahawaththa.me)**
 - 📫 Reach me at: **abogahawaththa.me**
