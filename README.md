@@ -1,16 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Bogahawaththa&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Bogahawaththa&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=18&descAlignY=58"/>
 
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="130" alt="Abhishek Bogahawaththa"/>
+  <img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="160" height="160" style="border-radius:50%;" alt="Abhishek Bogahawaththa"/>
+
+  <br/><br/>
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%92%BB;Java+Developer+%E2%98%95;Always+learning+new+things+%F0%9F%8C%B1)
+
 </div>
 
 ---
 
-<img align="right" alt="coding gif" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c79cf287f52672d6b2b8/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="right" alt="coding gif" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c79cf287f52672d6b2b8/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ### 👋 About Me
 
@@ -29,16 +34,16 @@
 
 <p align="left">
   <a href="https://twitter.com/abihisheakboga2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/abogahawaththa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/a_bogahawaththa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://abogahawaththa.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </p>
 
