@@ -27,7 +27,7 @@
 > *Passionate Full Stack Developer from Sri Lanka, building modern web applications and always learning.*
 
 - 🎓 Studying **Software Engineering**
-- 💻 Building full-stack apps
+- 💻 Building full-stack apps with **MERN Stack** (MongoDB, Express, React, Node.js)
 - ☕ Strong **Java** developer with backend expertise
 - 🎨 Eye for design — proficient in **Photoshop** & **Illustrator**
 - 🌐 Portfolio: **[abogahawaththa.me](https://abogahawaththa.me)**
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekBogahawaththa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=AbhishekBogahawaththa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
