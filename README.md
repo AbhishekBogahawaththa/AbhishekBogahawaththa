@@ -28,11 +28,9 @@
 
 - 🎓 Studying **Software Engineering**
 - 💻 Building full-stack apps
-- ☕ Strong **Java** developer with backend expertise
 - 🎨 Eye for design — proficient in **Photoshop** & **Illustrator**
 - 🌐 Portfolio: **[abogahawaththa.me](https://abogahawaththa.me)**
 - 📫 Contact: **abogahawaththa.me**
-- ⚡ Fun fact: I turn coffee into code!
 
 ---
 
