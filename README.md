@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Bogahawaththa&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=18&descAlignY=58"/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="middle">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Bogahawaththa&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58"/>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="160" height="160" style="border-radius:50%;" alt="Abhishek Bogahawaththa"/>
+</td>
+<td width="45%" valign="middle" align="center">
 
-  <br/><br/>
+<img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="160" height="160" alt="Abhishek Bogahawaththa"/>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%92%BB;Java+Developer+%E2%98%95;Always+learning+new+things+%F0%9F%8C%B1)
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+Developer+%E2%98%95;Software+Engineering+Student+%F0%9F%8C%B1;Always+learning+new+things+%F0%9F%92%A1)
+
+</td>
+</tr>
+</table>
 
 </div>
 
