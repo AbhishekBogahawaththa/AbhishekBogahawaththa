@@ -1,7 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Bogahawaththa&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Bogahawaththa&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58"/>
 
+</div>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="130" alt="Abhishek Bogahawaththa"/>
 </div>
 
 ---
@@ -11,7 +15,7 @@
 ### 👋 About Me
 
 - 🎓 Studying **Software Engineering**
-- 💻 Building full-stack apps
+- 💻 Building full-stack apps with the **MERN Stack**
 - ☕ Passionate about **Java** and backend development
 - 🌐 Portfolio: **[abogahawaththa.me](https://abogahawaththa.me)**
 - 📫 Reach me at: **abogahawaththa.me**
@@ -106,6 +110,15 @@
 
 [![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekBogahawaththa&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
