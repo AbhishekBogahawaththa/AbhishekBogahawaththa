@@ -27,7 +27,7 @@
 > *Passionate Full Stack Developer from Sri Lanka, building modern web applications and always learning.*
 
 - 🎓 Studying **Software Engineering**
-- 💻 Building full-stack apps with **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💻 Building full-stack apps
 - ☕ Strong **Java** developer with backend expertise
 - 🎨 Eye for design — proficient in **Photoshop** & **Illustrator**
 - 🌐 Portfolio: **[abogahawaththa.me](https://abogahawaththa.me)**
