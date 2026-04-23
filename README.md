@@ -106,15 +106,6 @@
 
 [![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekBogahawaththa&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<div align="center">
-
-### 💬 Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
