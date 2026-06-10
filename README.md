@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="150" height="150" alt="Abhishek."/>
+<img src="https://avatars.githubusercontent.com/u/178182774?v=4" width="150" height="150" alt="Abhishek"/>
 
 <br/><br/>
 
